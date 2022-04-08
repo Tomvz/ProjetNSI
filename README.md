@@ -11,6 +11,6 @@ Tableaux
 
 Liste des fonctions et prototypage :  
 - Class Grille :
-    - Grid() -> Constructeur  
-    - draw() -> Dessine dans la fenêtre  
+    - Grid() -> Constructeur, initialise la liste de liste representant le sudoku  
+    - draw(sf::RenderWindow window) -> Dessine dans la fenêtre  
     - getMap() -> Renvoie le Sudoku sous forme de tableau (liste de lsite)  
