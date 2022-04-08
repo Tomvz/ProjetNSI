@@ -10,4 +10,7 @@ Structures de données :
 Tableaux  
 
 Liste des fonctions et prototypage :  
-- Class Grille -> (Géneration, Dessin, Interaction)
+- Class Grille :
+    - Grid() -> Constructeur  
+    - draw() -> Dessine dans la fenêtre  
+    - getMap() -> Renvoie le Sudoku sous forme de tableau (liste de lsite)  
