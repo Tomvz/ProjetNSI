@@ -10,7 +10,7 @@ Structures de données :
 Tableaux  
 
 Liste des fonctions et prototypage :  
-- Class Grille :
+- Class Grille :  
   public:
     - Grid(sf::RenderWindow* window) -> Constructeur, initialise la liste de liste representant le sudoku  
     - draw() -> Dessine dans la fenêtre  
